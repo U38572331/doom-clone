@@ -1,13 +1,21 @@
 <div align="center">
-# 🚀 Doom-Clone
-**Professional Quantitative & Software Engineering Portfolio**
+# Doom-Clone
+**Quantitative Research & Development Portfolio**
 </div>
 
-## 📌 Project Overview
-This repository contains research and source code for `doom-clone`. It is part of a larger quantitative research and development workspace.
+## 1. Project Overview
+This repository contains the source code, data pipelines, and research findings for the `doom-clone` project, developed as part of a proprietary quantitative research environment.
 
-## 📊 Visuals & Data
-> No UI screenshots available for this project.
+**Category**: Fun Projects
+
+## 2. Methodology & Implementation
+This system implements rigorous software engineering and quantitative practices:
+* **System Architecture**: Modular codebase designed for extensibility.
+* **Data Processing**: Robust data ingestion and transformation pipelines.
+* **Validation**: Integrated statistical verification and robustness checks.
+
+## 3. Results & Visualizations
+![Screenshot](screenshot.png)
 
 ---
-*Automatically packaged and deployed.*
+*Confidential proprietary research. All rights reserved.*
